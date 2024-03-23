@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Firebase Cloud Messaging Android</string>
+    <string name="welcome_message">Welcome to the Firebase Notifications Management Masterclass for Android!</string>
 </resources>
